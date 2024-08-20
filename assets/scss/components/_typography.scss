@@ -4,8 +4,8 @@ $heading-font-size:(
     h1: 41.5px,
     h2: 36.49px,
     h3: 32.44px,
-    h4: 28.82px,
-    h5: 25.36px,
+    h4: 28.83px,
+    h5: 25.63px,
     h6: 22.78px,
 );
 /* Heading line heights */
@@ -17,6 +17,15 @@ $heading-line-height:(
     h5: 40px,
     h6: 40px,
 );
+$heading-weight:(
+    medium:500,
+    bold:800,
+    heavy:900,
+);
+
+
+
+
 /* Heading styles mixin */
 @mixin heading-style($size){
     font-size: map-get($heading-font-size,$size);

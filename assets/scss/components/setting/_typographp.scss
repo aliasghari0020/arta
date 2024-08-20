@@ -1,0 +1,347 @@
+// /* Text-size styles */
+// --heading---h6--heavy: 22.780000686645508px;
+// --heading---h6--bold: 22.780000686645508px;
+// --heading---h6--medium: 22.780000686645508px;
+// --heading---h5--heavy: 25.6299991607666px;
+// --heading---h5--bold: 25.6299991607666px;
+// --heading---h5--medium: 25.6299991607666px;
+// --heading---h4--heavy: 28.829999923706055px;
+// --heading---h4--bold: 28.829999923706055px;
+// --heading---h4--medium: 28.829999923706055px;
+// --heading---h3--heavy: 32.439998626708984px;
+// --heading---h3--bold: 32.439998626708984px;
+// --heading---h3--medium: 32.439998626708984px;
+// --heading---h2--heavy: 36.4900016784668px;
+// --heading---h2--bold: 36.4900016784668px;
+// --heading---h2--medium: 36.4900016784668px;
+// --heading---h1--heavy: 41.04999923706055px;
+// --heading---h1--bold: 41.04999923706055px;
+// --heading---h1--medium: 41.04999923706055px;
+// --body---title: 20.25px;
+// --body---subtitle--bold: 18px;
+// --body---subtitle: 18px;
+// --body---body--bold: 16px;
+// --body---body: 16px;
+// --body---body--small--bold: 14.220000267028809px;
+// --body---body--small: 14.220000267028809px;
+// --body---caption--bold: 12.640000343322754px;
+// --body---caption: 12.640000343322754px;
+// --body---footnote--bold: 11.239999771118164px;
+// --body---footnote: 11.239999771118164px;
+// --body---tag--bold: 9.989999771118164px;
+// --body---tag: 9.989999771118164px;
+// --body---small--bold: 8.880000114440918px;
+// --body---small: 8.880000114440918px;
+// --body---x--small--bold: 7.889999866485596px;
+// --body---x--small: 7.889999866485596px;
+
+
+
+
+
+// /* Body/X-Small */
+// font-family: IRANYekanXFaNum;
+// font-size: 7.89px;
+// font-style: normal;
+// font-weight: 500;
+// line-height: 16px; /* 202.788% */
+
+
+// /* Body/X-Small Bold */
+// font-family: IRANYekanXFaNum;
+// font-size: 7.89px;
+// font-style: normal;
+// font-weight: 800;
+// line-height: 16px; /* 202.788% */
+
+
+
+// /* Body/Small */
+// font-family: IRANYekanXFaNum;
+// font-size: 8.88px;
+// font-style: normal;
+// font-weight: 500;
+// line-height: 16px; /* 180.18% */
+
+
+
+// /* Body/Small */
+// font-family: IRANYekanXFaNum;
+// font-size: 8.88px;
+// font-style: normal;
+// font-weight: 500;
+// line-height: 16px; /* 180.18% */
+
+
+
+// /* Body/Tag */
+// font-family: IRANYekanXFaNum;
+// font-size: 9.99px;
+// font-style: normal;
+// font-weight: 500;
+// line-height: 16px; /* 160.16% */
+
+
+
+// /* Body/Tag Bold */
+// font-family: IRANYekanXFaNum;
+// font-size: 9.99px;
+// font-style: normal;
+// font-weight: 800;
+// line-height: 16px; /* 160.16% */
+
+
+
+// /* Body/Footnote */
+// font-family: IRANYekanXFaNum;
+// font-size: 11.24px;
+// font-style: normal;
+// font-weight: 500;
+// line-height: 20px; /* 177.936% */
+
+
+
+// /* Body/Footnote Bold */
+// font-family: IRANYekanXFaNum;
+// font-size: 11.24px;
+// font-style: normal;
+// font-weight: 800;
+// line-height: 20px; /* 177.936% */
+
+
+
+// /* Body/Caption */
+// font-family: IRANYekanXFaNum;
+// font-size: 12.64px;
+// font-style: normal;
+// font-weight: 500;
+// line-height: 20px; /* 158.228% */
+
+
+
+
+// /* Body/Caption Bold */
+// font-family: IRANYekanXFaNum;
+// font-size: 12.64px;
+// font-style: normal;
+// font-weight: 800;
+// line-height: 20px; /* 158.228% */
+
+
+
+// /* Body/Body Small */
+// font-family: IRANYekanXFaNum;
+// font-size: 14.22px;
+// font-style: normal;
+// font-weight: 500;
+// line-height: 28px; /* 196.906% */
+
+
+
+// /* Body/Body Small Bold */
+// font-family: IRANYekanXFaNum;
+// font-size: 14.22px;
+// font-style: normal;
+// font-weight: 800;
+// line-height: 28px; /* 196.906% */
+
+
+
+// /* Body/Body */
+// font-family: IRANYekanXFaNum;
+// font-size: 16px;
+// font-style: normal;
+// font-weight: 500;
+// line-height: 32px; /* 200% */
+
+
+
+// /* Body/Body Bold */
+// font-family: IRANYekanXFaNum;
+// font-size: 16px;
+// font-style: normal;
+// font-weight: 800;
+// line-height: 32px; /* 200% */
+
+
+
+// /* Body/Subtitle */
+// font-family: IRANYekanXFaNum;
+// font-size: 18px;
+// font-style: normal;
+// font-weight: 500;
+// line-height: 40px; /* 222.222% */
+
+
+
+// /* Body/Subtitle Bold */
+// font-family: IRANYekanXFaNum;
+// font-size: 18px;
+// font-style: normal;
+// font-weight: 800;
+// line-height: 40px; /* 222.222% */
+
+
+
+// /* Body/Title */
+// font-family: IRANYekanXFaNum;
+// font-size: 20.25px;
+// font-style: normal;
+// font-weight: 800;
+// line-height: 48px; /* 237.037% */
+
+
+// /* Heading/H1 Medium */
+// font-family: IRANYekanXFaNum;
+// font-size: 41.05px;
+// font-style: normal;
+// font-weight: 500;
+// line-height: 72px; /* 175.396% */
+
+
+
+// /* Heading/H1 Bold */
+// font-family: IRANYekanXFaNum;
+// font-size: 41.05px;
+// font-style: normal;
+// font-weight: 800;
+// line-height: 72px; /* 175.396% */
+
+
+
+
+// /* Heading/H1 Heavy */
+// font-family: IRANYekanXFaNum;
+// font-size: 41.05px;
+// font-style: normal;
+// font-weight: 900;
+// line-height: 72px; /* 175.396% */
+
+// /* Heading/H2 Medium */
+// font-family: IRANYekanXFaNum;
+// font-size: 36.49px;
+// font-style: normal;
+// font-weight: 500;
+// line-height: 64px; /* 175.391% */
+
+
+
+// /* Heading/H2 Bold */
+// font-family: IRANYekanXFaNum;
+// font-size: 36.49px;
+// font-style: normal;
+// font-weight: 800;
+// line-height: 64px; /* 175.391% */
+
+
+
+// /* Heading/H2 Heavy */
+// font-family: IRANYekanXFaNum;
+// font-size: 36.49px;
+// font-style: normal;
+// font-weight: 900;
+// line-height: 64px; /* 175.391% */
+
+
+// /* Heading/H3 Medium */
+// font-family: IRANYekanXFaNum;
+// font-size: 32.44px;
+// font-style: normal;
+// font-weight: 500;
+// line-height: 56px; /* 172.626% */
+
+
+
+// /* Heading/H3 Bold */
+// font-family: IRANYekanXFaNum;
+// font-size: 32.44px;
+// font-style: normal;
+// font-weight: 800;
+// line-height: 56px; /* 172.626% */
+
+
+
+// /* Heading/H3 Heavy */
+// font-family: IRANYekanXFaNum;
+// font-size: 32.44px;
+// font-style: normal;
+// font-weight: 900;
+// line-height: 56px; /* 172.626% */
+
+
+// /* Heading/H4 Medium */
+// font-family: IRANYekanXFaNum;
+// font-size: 28.83px;
+// font-style: normal;
+// font-weight: 500;
+// line-height: 56px; /* 194.242% */
+
+
+
+// /* Heading/H4 Bold */
+// font-family: IRANYekanXFaNum;
+// font-size: 28.83px;
+// font-style: normal;
+// font-weight: 800;
+// line-height: 56px; /* 194.242% */
+
+
+
+// /* Heading/H4 Heavy */
+// font-family: IRANYekanXFaNum;
+// font-size: 28.83px;
+// font-style: normal;
+// font-weight: 900;
+// line-height: 56px; /* 194.242% */
+
+
+// /* Heading/H5 Medium */
+// font-family: IRANYekanXFaNum;
+// font-size: 25.63px;
+// font-style: normal;
+// font-weight: 500;
+// line-height: 40px; /* 156.067% */
+
+
+
+// /* Heading/H5 Bold */
+// font-family: IRANYekanXFaNum;
+// font-size: 25.63px;
+// font-style: normal;
+// font-weight: 800;
+// line-height: 40px; /* 156.067% */
+
+
+
+// /* Heading/H5 Heavy */
+// font-family: IRANYekanXFaNum;
+// font-size: 25.63px;
+// font-style: normal;
+// font-weight: 900;
+// line-height: 40px; /* 156.067% */
+
+
+// /* Heading/H6 Medium */
+// font-family: IRANYekanXFaNum;
+// font-size: 22.78px;
+// font-style: normal;
+// font-weight: 500;
+// line-height: 40px; /* 175.593% */
+
+
+
+// /* Heading/H6 Bold */
+// font-family: IRANYekanXFaNum;
+// font-size: 22.78px;
+// font-style: normal;
+// font-weight: 800;
+// line-height: 40px; /* 175.593% */
+
+
+
+// /* Heading/H6 Heavy */
+// font-family: IRANYekanXFaNum;
+// font-size: 22.78px;
+// font-style: normal;
+// font-weight: 900;
+// line-height: 40px; /* 175.593% */
