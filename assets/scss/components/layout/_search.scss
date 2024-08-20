@@ -1,0 +1,12 @@
+
+
+.search{
+    max-width: 850px;
+    width: 100%;
+    input{
+        outline: none;
+        &::placeholder{
+            color: #c1c7d0;
+        }
+    }
+}

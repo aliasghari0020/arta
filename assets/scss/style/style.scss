@@ -41,7 +41,7 @@
 @use"../page/profile.scss";
 @use"../page/page404.scss";
 @use"../sections/description.scss";
-
+@use "../components/layout/search";
 body {
     direction: rtl;
     overflow-x: hidden;

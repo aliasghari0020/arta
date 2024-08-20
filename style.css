@@ -16365,6 +16365,10 @@ progress {
   color: rgba(0, 0, 0, 0.2509803922);
 }
 
+.light-black {
+  color: #000;
+}
+
 .bg-blue-1 {
   background: #1677ff;
 }
@@ -16659,6 +16663,10 @@ progress {
 
 .bg-light-disabled {
   background: rgba(0, 0, 0, 0.2509803922);
+}
+
+.bg-light-black {
+  background: #000;
 }
 
 /* Heading font sizes */
@@ -20464,6 +20472,17 @@ footer .bot p {
     height: auto;
   }
 }
+.search {
+  max-width: 850px;
+  width: 100%;
+}
+.search input {
+  outline: none;
+}
+.search input::placeholder {
+  color: #c1c7d0;
+}
+
 body {
   direction: rtl;
   overflow-x: hidden;
