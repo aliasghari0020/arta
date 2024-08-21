@@ -220,25 +220,6 @@ address {
   line-height: inherit;
 }
 
-ol,
-ul {
-  padding-left: 2rem;
-}
-
-ol,
-ul,
-dl {
-  margin-top: 0;
-  margin-bottom: 1rem;
-}
-
-ol ol,
-ul ul,
-ol ul,
-ul ol {
-  margin-bottom: 0;
-}
-
 dt {
   font-weight: 700;
 }
@@ -286,9 +267,6 @@ sup {
 a {
   color: rgba(var(--bs-link-color-rgb), var(--bs-link-opacity, 1));
   text-decoration: none;
-}
-a:hover {
-  --bs-link-color-rgb: var(--bs-link-hover-color-rgb);
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -16262,39 +16240,43 @@ progress {
 }
 
 .primary-1 {
-  color: #fff0f0;
+  color: #fff2f0;
 }
 
 .primary-2 {
-  color: #ffccd0;
+  color: #ffe9e6;
 }
 
 .primary-3 {
-  color: #ffa3ae;
+  color: #ffc3bd;
 }
 
 .primary-4 {
-  color: #fa788b;
+  color: #ff9b94;
 }
 
 .primary-5 {
-  color: #fa7083;
+  color: #fc6f6a;
+}
+
+.primary-base {
+  color: #ef3f40;
 }
 
 .primary-7 {
-  color: #c7304e;
+  color: #c92a30;
 }
 
 .primary-8 {
-  color: #a11f3d;
+  color: #a31a23;
 }
 
 .primary-9 {
-  color: #7a112d;
+  color: #7d0e19;
 }
 
 .primary-10 {
-  color: #540b21;
+  color: #570913;
 }
 
 .secondary-1 {
@@ -16351,6 +16333,98 @@ progress {
 
 .nutral-light-50 {
   color: #c1c7d0;
+}
+
+.nutral-mix-60 {
+  color: #b3bac5;
+}
+
+.nutral-mix-70 {
+  color: #a5adba;
+}
+
+.nutral-mix-80 {
+  color: #97a0af;
+}
+
+.nutral-mix-90 {
+  color: #8993a4;
+}
+
+.nutral-mix-100 {
+  color: #7a869a;
+}
+
+.nutral-mix-200 {
+  color: #6b778c;
+}
+
+.nutral-mix-300 {
+  color: #5e6c84;
+}
+
+.nutral-mix-400 {
+  color: #505f79;
+}
+
+.nutral-mix-500 {
+  color: #42526e;
+}
+
+.nutral-mix-600 {
+  color: #344563;
+}
+
+.nutral-mix-700 {
+  color: #253858;
+}
+
+.nutral-mix-800 {
+  color: #172b4d;
+}
+
+.nutral-mix-900 {
+  color: #091e42;
+}
+
+.nutral-mix-black {
+  color: #000000;
+}
+
+.nutral-pure-100 {
+  color: #f0f0ec;
+}
+
+.nutral-pure-200 {
+  color: #e0e0e2;
+}
+
+.nutral-pure-300 {
+  color: #c0c2c5;
+}
+
+.nutral-pure-400 {
+  color: #a1a3a8;
+}
+
+.nutral-pure-500 {
+  color: #81858b;
+}
+
+.nutral-pure-600 {
+  color: #62666d;
+}
+
+.nutral-pure-700 {
+  color: #3f4064;
+}
+
+.nutral-pure-800 {
+  color: #23254e;
+}
+
+.nutral-pure-900 {
+  color: #0c0c0c;
 }
 
 .light-text {
@@ -16562,39 +16636,43 @@ progress {
 }
 
 .bg-primary-1 {
-  background: #fff0f0;
+  background: #fff2f0;
 }
 
 .bg-primary-2 {
-  background: #ffccd0;
+  background: #ffe9e6;
 }
 
 .bg-primary-3 {
-  background: #ffa3ae;
+  background: #ffc3bd;
 }
 
 .bg-primary-4 {
-  background: #fa788b;
+  background: #ff9b94;
 }
 
 .bg-primary-5 {
-  background: #fa7083;
+  background: #fc6f6a;
+}
+
+.bg-primary-base {
+  background: #ef3f40;
 }
 
 .bg-primary-7 {
-  background: #c7304e;
+  background: #c92a30;
 }
 
 .bg-primary-8 {
-  background: #a11f3d;
+  background: #a31a23;
 }
 
 .bg-primary-9 {
-  background: #7a112d;
+  background: #7d0e19;
 }
 
 .bg-primary-10 {
-  background: #540b21;
+  background: #570913;
 }
 
 .bg-secondary-1 {
@@ -16651,6 +16729,98 @@ progress {
 
 .bg-nutral-light-50 {
   background: #c1c7d0;
+}
+
+.bg-nutral-mix-60 {
+  background: #b3bac5;
+}
+
+.bg-nutral-mix-70 {
+  background: #a5adba;
+}
+
+.bg-nutral-mix-80 {
+  background: #97a0af;
+}
+
+.bg-nutral-mix-90 {
+  background: #8993a4;
+}
+
+.bg-nutral-mix-100 {
+  background: #7a869a;
+}
+
+.bg-nutral-mix-200 {
+  background: #6b778c;
+}
+
+.bg-nutral-mix-300 {
+  background: #5e6c84;
+}
+
+.bg-nutral-mix-400 {
+  background: #505f79;
+}
+
+.bg-nutral-mix-500 {
+  background: #42526e;
+}
+
+.bg-nutral-mix-600 {
+  background: #344563;
+}
+
+.bg-nutral-mix-700 {
+  background: #253858;
+}
+
+.bg-nutral-mix-800 {
+  background: #172b4d;
+}
+
+.bg-nutral-mix-900 {
+  background: #091e42;
+}
+
+.bg-nutral-mix-black {
+  background: #000000;
+}
+
+.bg-nutral-pure-100 {
+  background: #f0f0ec;
+}
+
+.bg-nutral-pure-200 {
+  background: #e0e0e2;
+}
+
+.bg-nutral-pure-300 {
+  background: #c0c2c5;
+}
+
+.bg-nutral-pure-400 {
+  background: #a1a3a8;
+}
+
+.bg-nutral-pure-500 {
+  background: #81858b;
+}
+
+.bg-nutral-pure-600 {
+  background: #62666d;
+}
+
+.bg-nutral-pure-700 {
+  background: #3f4064;
+}
+
+.bg-nutral-pure-800 {
+  background: #23254e;
+}
+
+.bg-nutral-pure-900 {
+  background: #0c0c0c;
 }
 
 .bg-light-text {
