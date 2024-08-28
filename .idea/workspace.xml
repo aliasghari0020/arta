@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="50e03968-198c-4223-8b80-51440218acc5" name="Changes" comment="" />
+    <list default="true" id="50e03968-198c-4223-8b80-51440218acc5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/scss/components/layout/_card-section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/components/layout/multiStyle.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/components/_card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/components/_card.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/components/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/components/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/components/layout/_search.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/components/layout/_search.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/style/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/style/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,24 +25,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2kxRr7O3VTSfXjkkTgsuD7U95aS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
-    "last_opened_file_path": "/home/ali/Desktop/New Folder/project",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ali/Desktop/nuxt-app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -44,6 +66,15 @@
       <option name="presentableId" value="Default" />
       <updated>1724223437167</updated>
       <workItem from="1724223438659" duration="31000" />
+      <workItem from="1724435614513" duration="7397000" />
+      <workItem from="1724478580906" duration="37000" />
+      <workItem from="1724488504444" duration="10625000" />
+      <workItem from="1724593379775" duration="11710000" />
+      <workItem from="1724651756931" duration="33000" />
+      <workItem from="1724772873090" duration="16518000" />
+      <workItem from="1724826231237" duration="4563000" />
+      <workItem from="1724845440243" duration="23000" />
+      <workItem from="1724881424239" duration="4758000" />
     </task>
     <servers />
   </component>

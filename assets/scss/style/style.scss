@@ -10,15 +10,15 @@
 
 @use "../sections/header/header.scss";
 
-@use "../sections/story.scss";
+// @use "../sections/story.scss";
 
-@use "../sections/slider.scss";
+// @use "../sections/slider.scss";
 
 @use '../sections/descovery.scss';
 
 @use '../components/category-card.scss';
 
-@use"../components/card.scss";
+// @use"../components/card.scss";
 
 @use"../sections/login.scss";
 
@@ -31,17 +31,23 @@
 @use "../components/lable";
 @use "../components/navbat-btn.scss";
 // page 
-@use"../page/singel/singel.scss";
-@use"../page/singel/single-video.scss";
-@use"../page/singel/single-product.scss";
-@use "../page/allCategory.scss";
-@use"../page/category.scss";
-@use"../page/about.scss";
-@use"../page/author.scss";
-@use"../page/profile.scss";
-@use"../page/page404.scss";
+// @use"../page/singel/singel.scss";
+// @use"../page/singel/single-video.scss";
+// @use"../page/singel/single-product.scss";
+// @use "../page/allCategory.scss";
+// @use"../page/category.scss";
+// @use"../page/about.scss";
+// @use"../page/author.scss";
+// @use"../page/profile.scss";
+// @use"../page/page404.scss";
 @use"../sections/description.scss";
 @use "../components/layout/search";
+@use "../components/layout/story";
+@use"../components/layout/slider";
+@use"../components/layout/servises";
+@use"../components/layout/card";
+@use"../components/layout/multiStyle";
+@use"../components/layout/card-section";
 body {
     direction: rtl;
     overflow-x: hidden;
